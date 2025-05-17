@@ -8,3 +8,6 @@
 
 [file_servers]
 10.0.0.195
+
+[workstations]
+10.0.0.198
